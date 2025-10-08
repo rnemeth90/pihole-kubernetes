@@ -1,10 +1,7 @@
-# mojo2600.github.io
+# rnemeth90.github.io
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-27-blue.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-
-> [!IMPORTANT]  
-> Additional maintainers wanted! I need help maintaining this chart. Please see [the discussion here](https://github.com/MoJo2600/pihole-kubernetes/discussions/393)
 
 [Helm](https://helm.sh) repo for different charts which can be installed on [Kubernetes](https://kubernetes.io)
 
